@@ -1,0 +1,13 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+auto-save-list/
+elpa/
+ido.last
+projectile-bookmarks.eld
+recentf
+semanticdb/
+smex-items
